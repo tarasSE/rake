@@ -70,7 +70,7 @@ class String
       end
       result
     end
-    protected :pathmap_replace
+    #protected :pathmap_replace
 
     # Map the path according to the given specification.  The specification
     # controls the details of the mapping.  The following special patterns are
